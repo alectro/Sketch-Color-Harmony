@@ -32,13 +32,13 @@ Colors are **120 degrees** separated in the color wheel in each direction.
 
 ![](images/color-harmony-triadic.png)
 
-## Tetradic 60 degrees
+## Tetradic Rectangle
 Four colors arranged into two complementary color pairs.
 A set of complimentary colors plus their **60 degrees** separated in the color wheel.
 
 ![](images/color-harmony-tetradic-60.png)
 
-## Tetradic 90 degrees
+## Tetradic Square
 Four colors arranged into two complementary color pairs.
 A set of complimentary colors plus their **90 degrees** separated in the color wheel.
 
